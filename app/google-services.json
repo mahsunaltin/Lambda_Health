@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98367326773",
+    "firebase_url": "https://lambdahealth-4005e.firebaseio.com",
+    "project_id": "lambdahealth-4005e",
+    "storage_bucket": "lambdahealth-4005e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98367326773:android:97ad804542af4590",
+        "android_client_info": {
+          "package_name": "com.example.mahsunaltin.lambdahealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98367326773-74nhc9b1763tetq5sldmp4q0qhftqiq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahsunaltin.lambdahealth",
+            "certificate_hash": "1d6c0c49bc29a524717aae605d9fdfc1730a39c3"
+          }
+        },
+        {
+          "client_id": "98367326773-1s3ati80v8rrp49n8vak1sbm8vvqcanv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKj7mRoG1oyiLRDpd9nzgTbyoskiK4tgs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98367326773-1s3ati80v8rrp49n8vak1sbm8vvqcanv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
